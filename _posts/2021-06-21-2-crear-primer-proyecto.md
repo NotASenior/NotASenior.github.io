@@ -3,6 +3,7 @@ layout: post
 title:  "Clean C# 2: nuestro primer proyecto"
 date:   2021-06-21 09:44:56 -0500
 categories: tutorial
+comments: true
 ---
 
 Vamos a crear nuestro primer proyecto.
@@ -66,4 +67,7 @@ Este será el resultado:
 En nuestra próxima clase, aprenderemos un poco más sobre variables, lo que nos ayudará a crear un programa para saludar a cualquier usuario, y no sólo al mundo.
 
 {% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
+{{ tmp | markdownify }}
+
+{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
 {{ tmp | markdownify }}

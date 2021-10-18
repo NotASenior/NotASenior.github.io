@@ -1,4 +1,3 @@
-
 <br>
 <section id="more-work">
     {% if page.next %}

@@ -3,6 +3,7 @@ layout: post
 title:  "Clean C# 4: aprender a saludar"
 date:   2021-06-21 09:47:56 -0500
 categories: tutorial
+comments: true
 ---
 
 Ahora, partiendo del programa que creamos en la **lección 2**, aprenderemos a saludar a cualquier persona.
@@ -47,4 +48,7 @@ Analicemos el código:
  En el futuro aprenderemos cómo mejorar nuestro código de otras maneras, como por ejemplo, separando responsabilidades.
 
 {% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
+{{ tmp | markdownify }}
+
+{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
 {{ tmp | markdownify }}
