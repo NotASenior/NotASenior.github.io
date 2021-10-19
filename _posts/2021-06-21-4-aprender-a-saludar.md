@@ -23,14 +23,11 @@ Para solucionar este problema, aprenderemos a pedir datos al usuario, y guardarl
 
 Veamos cómo hacerlo:
 
-{% highlight csharp %}
-
-Console.WriteLine("Write your name:");
-string name = Console.ReadLine();
-
-Console.WriteLine("Hello " + name);
-
-{% endhighlight %}
+<iframe
+  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=Console.WriteLine%28%2522Write%2520your%2520name%253A%2522%29%253B%250Astring%2520name%2520%253D%2520Console.ReadLine%28%29%253B%250A%250AConsole.WriteLine%28%2522Hello%2520%2522%2520%252B%2520name%29%253B"
+  style="width: 1024px; height: 473px; border:0; transform: scale(1); overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
 
 Analicemos el código:
 
