@@ -13,7 +13,7 @@ Ingresa a la siguiente URL [descargar Visual Studio](https://visualstudio.micros
 
 Verás algo como esto:
 
-![Instalar Visual Studio](/assets/images/1_InstallVS/1.jpg)
+![Instalar Visual Studio](/assets/images/1_InstallVS/1.JPG)
 
 Pon el mouse sobre la opción **Descargar Visual Studio**, y aparecerán tres opciones.
 Da clic en la versión **Community**, que es la versión gratuita.
@@ -22,7 +22,7 @@ Este ejecutable, es el **Visual Studio Installer**. Una herramienta que nos perm
 
 Al ejecutarlo, veremos lo siguiente:
 
-![Instalar Visual Studio 2](/assets/images/1_InstallVS/2.jpg)
+![Instalar Visual Studio 2](/assets/images/1_InstallVS/2.JPG)
 
 Da clic en continuar, y aparecerá un listado de características que podremos instalar. Algunas características podemos instalarlas después, a medida que las vayamos necesitando. 
 
@@ -35,11 +35,11 @@ Seleccionaremos las siguientes:
 - Desarrollo multiplataforma de .NET
     - Para desarrollo con las últimas tecnologías, y orientado a soporte multiplataforma
 
-![Instalar Visual Studio 3](/assets/images/1_InstallVS/3.jpg)
+![Instalar Visual Studio 3](/assets/images/1_InstallVS/3.JPG)
 
 Una vez instalado, veremos la siguiente imagen:
 
-![Instalar Visual Studio 4](/assets/images/1_InstallVS/4.jpg)
+![Instalar Visual Studio 4](/assets/images/1_InstallVS/4.JPG)
 
 Hemos terminado de instalar Visual Studio. En la siguiente clase crearemos **nuestro primer proyecto**.
 
