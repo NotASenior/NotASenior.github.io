@@ -28,7 +28,7 @@ twitter_username: NotASeniorDev
 github_username:  NotASenior
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 #theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
