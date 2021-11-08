@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Clean C#3 : tipos de variables"
 date:   2021-06-21 09:46:56 -0500
 categories: tutorial

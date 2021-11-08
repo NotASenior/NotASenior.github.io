@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Clean C# 2: nuestro primer proyecto"
 date:   2021-06-21 09:44:56 -0500
 categories: tutorial

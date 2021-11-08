@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Clean C# 1: instalar Visual Studio"
 date:   2021-06-21 09:43:56 -0500
 categories: tutorial

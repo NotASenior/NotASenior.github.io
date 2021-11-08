@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Clean C# from zero to something"
 date:   2021-06-20 09:42:56 -0500
 categories: tutorial

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Clean C# 4: aprender a saludar"
 date:   2021-06-21 09:47:56 -0500
 categories: tutorial
