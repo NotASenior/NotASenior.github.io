@@ -6,6 +6,9 @@ tags: pinned
 comments: true
 ---
 
+{: style="text-align: right" }
+[Ir al inicio]({{ site.url }})
+
 En este hilo de posts, trataré de explicarte cómo funciona C#.
 
 Aprenderemos conceptos que van desde **variables, condicionales, ciclos**; hasta **repositorios, inyección de dependencias, etc**.

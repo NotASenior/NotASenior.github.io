@@ -5,6 +5,9 @@ categories: tutorial
 comments: true
 ---
 
+{: style="text-align: right" }
+[Ir al inicio]({{ site.url }})
+
 Vamos a crear nuestro primer proyecto.
 Al abrir Visual Studio, veremos las siguientes opciones:
 

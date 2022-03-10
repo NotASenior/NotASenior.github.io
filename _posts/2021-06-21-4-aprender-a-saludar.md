@@ -5,6 +5,9 @@ categories: tutorial
 comments: true
 ---
 
+{: style="text-align: right" }
+[Ir al inicio]({{ site.url }})
+
 Ahora, partiendo del programa que creamos en la **lección 2**, aprenderemos a saludar a cualquier persona.
 
 Este es nuestro código actual.

@@ -5,6 +5,9 @@ categories: tutorial
 comments: true
 ---
 
+{: style="text-align: right" }
+[Ir al inicio]({{ site.url }})
+
 En este post, crearemos un programa que determine si una persona es mayor o menor de edad.
 
 ### Qué debemos hacer? Pensemos paso a paso

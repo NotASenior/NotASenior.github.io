@@ -5,6 +5,9 @@ categories: tutorial
 comments: true
 ---
 
+{: style="text-align: right" }
+[Ir al inicio]({{ site.url }})
+
 Inicialmente debemos responder la pregunta, **¿qué es una variable?**
 
 Las variables son **espacios de memoria**, que usamos para guardar datos.
