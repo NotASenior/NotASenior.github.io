@@ -25,7 +25,7 @@ Ahora, modifiquemos el código para que nos salude:
 El problema con el código anterior, es que debemos modificarlo cada vez que querramos saludar a alguien diferente. 
 Para solucionar este problema, aprenderemos a **pedir datos al usuario**, y **guardarlos en variables**.
 
-Veamos cómo hacerlo:
+### Veamos cómo hacerlo:
 
 <iframe
   src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=Console.WriteLine%28%2522Write%2520your%2520name%253A%2522%29%253B%250Astring%2520name%2520%253D%2520Console.ReadLine%28%29%253B%250A%250AConsole.WriteLine%28%2522Hello%2520%2522%2520%252B%2520name%29%253B"
@@ -33,7 +33,7 @@ Veamos cómo hacerlo:
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-Analicemos el código:
+### Analicemos el código:
 
 - **Console.WriteLine("Write your name:");** En esta línea mostramos un mensaje, que le dice al usuario que ingrese su nombre.
 - **string name = Console.ReadLine();** En esta línea creamos una variable, con el nombre name, y le asignamos el valor que ingrese el usuario, con el comando Console.ReadLine
