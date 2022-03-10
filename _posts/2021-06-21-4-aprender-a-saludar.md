@@ -10,16 +10,15 @@ Ahora, partiendo del programa que creamos en la **lección 2**, aprenderemos a s
 Este es nuestro código actual.
 
 <iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=class%2520Program%250A%257B%250A%2520%2520%2520%2520static%2520void%2520Main%28string%255B%255D%2520args%29%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520Console.WriteLine%28%2522Hello%2520World%21%2522%29%253B%250A%2520%2520%2520%2520%257D%250A%257D"
-  style="width: 533px; height: 315px; border:0; transform: scale(1); overflow:hidden;"
+  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=Console.WriteLine%28%2522Hello%2520World%21%2522%29%253B"
+  style="width: 100%; height: 191px; border:0; transform: scale(1); overflow:hidden;"
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
 Ahora, modifiquemos el código para que nos salude:
-
 <iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=class%2520Program%250A%257B%250A%2520%2520%2520%2520static%2520void%2520Main%28string%255B%255D%2520args%29%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520Console.WriteLine%28%2522Hello%2520Frank%21%2522%29%253B%250A%2520%2520%2520%2520%257D%250A%257D"
-  style="width: 533px; height: 315px; border:0; transform: scale(1); overflow:hidden;"
+  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=Console.WriteLine%28%2522Hello%2520Frank%21%2522%29%253B"
+  style="width: 100%; height: 191px; border:0; transform: scale(1); overflow:hidden;"
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
@@ -29,8 +28,8 @@ Para solucionar este problema, aprenderemos a **pedir datos al usuario**, y **gu
 Veamos cómo hacerlo:
 
 <iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=class%2520Program%250A%257B%250A%2520%2520%2520%2520static%2520void%2520Main%28string%255B%255D%2520args%29%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520Console.WriteLine%28%2522Write%2520your%2520name%253A%2522%29%253B%250A%2509%2509string%2520name%2520%253D%2520Console.ReadLine%28%29%253B%250A%250A%2509%2509Console.WriteLine%28%2522Hello%2520%2522%2520%252B%2520name%29%253B%250A%2520%2520%2520%2520%257D%250A%257D"
-  style="width: 567px; height: 370px; border:0; transform: scale(1); overflow:hidden;"
+  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=text%2Fx-csharp&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=Console.WriteLine%28%2522Write%2520your%2520name%253A%2522%29%253B%250Astring%2520name%2520%253D%2520Console.ReadLine%28%29%253B%250A%250AConsole.WriteLine%28%2522Hello%2520%2522%2520%252B%2520name%29%253B"
+  style="width: 100%; height: 246px; border:0; transform: scale(1); overflow:hidden;"
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
