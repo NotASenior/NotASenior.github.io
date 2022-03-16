@@ -3,6 +3,7 @@ title:  "Clean C# 5: condicionales"
 date:   2022-03-09 08:00:00 -0500
 categories: tutorial
 comments: true
+layout: csharp-tutorial
 ---
 
 {: style="text-align: right" }
@@ -65,9 +66,3 @@ Para verificar la edad, usaremos condicionales.
 - Para evitar valores "quemados", lo mejor siempre es obtenerlos de una **fuente de datos modificable**.
   - Del **Web.config**, un archivo de configuración que veremos más adelante.
   - O de una **base de datos**, **servicio**, **archivo** u otros medios, que veremos más adelante.
-
-{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
-{{ tmp | markdownify }}
-
-{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
-{{ tmp | markdownify }}

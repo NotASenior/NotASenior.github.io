@@ -1,0 +1,21 @@
+---
+title:  "Clean C# 5: condicionales"
+date:   2022-03-09 08:00:00 -0500
+categories: tutorial
+comments: true
+layout: default
+---
+
+{{ content }}
+
+<br>
+<hr>
+
+{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
+{{ tmp | markdownify }}
+
+<br>
+<hr>
+
+{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
+{{ tmp | markdownify }}

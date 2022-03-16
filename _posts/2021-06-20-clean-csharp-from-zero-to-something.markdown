@@ -4,6 +4,7 @@ date:   2021-06-20 09:42:56 -0500
 categories: tutorial
 tags: pinned
 comments: true
+layout: csharp-tutorial
 ---
 
 {: style="text-align: right" }
@@ -21,9 +22,3 @@ La idea de este hilo, es que **no sólo aprendas programación básica**, como s
 {% highlight csharp %}
 Console.WriteLine("Empecemos");
 {% endhighlight %}
-
-{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
-{{ tmp | markdownify }}
-
-{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
-{{ tmp | markdownify }}

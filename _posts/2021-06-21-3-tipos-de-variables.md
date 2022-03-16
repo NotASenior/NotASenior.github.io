@@ -3,6 +3,7 @@ title:  "Clean C# 3: tipos de variables"
 date:   2021-06-21 09:46:56 -0500
 categories: tutorial
 comments: true
+layout: csharp-tutorial
 ---
 
 {: style="text-align: right" }
@@ -50,9 +51,3 @@ string nombreDelUsuario = "Pepe";
 
 No te preocupes si no entiendes estos tipos de variables aún.
 Íremos aprendiéndolos, a medida que vayamos necesitándolos.
-
-{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
-{{ tmp | markdownify }}
-
-{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
-{{ tmp | markdownify }}

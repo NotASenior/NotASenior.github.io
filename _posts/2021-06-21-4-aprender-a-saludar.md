@@ -3,6 +3,7 @@ title:  "Clean C# 4: aprender a saludar"
 date:   2021-06-21 09:47:56 -0500
 categories: tutorial
 comments: true
+layout: csharp-tutorial
 ---
 
 {: style="text-align: right" }
@@ -66,9 +67,3 @@ Pudimos haber llamado la variable de cualquier manera que quisieramos, por ejemp
 Cuando usamos buenos nombres, nuestro código es **más fácil de leer**, y nuestros compañeros (o incluso nosotros mismos en el futuro) podrán trabajar más fácilmente con nuestro código.
 
 En el futuro aprenderemos cómo mejorar nuestro código de otras maneras, como por ejemplo, **separando responsabilidades**.
-
-{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
-{{ tmp | markdownify }}
-
-{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
-{{ tmp | markdownify }}

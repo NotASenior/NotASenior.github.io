@@ -3,6 +3,7 @@ title:  "Clean C# 1: instalar Visual Studio"
 date:   2021-06-21 09:43:56 -0500
 categories: tutorial
 comments: true
+layout: csharp-tutorial
 ---
 
 {: style="text-align: right" }
@@ -44,9 +45,3 @@ Una vez instalado, veremos la siguiente imagen:
 ![Instalar Visual Studio 4](/assets/images/1_InstallVS/4.JPG)
 
 Hemos terminado de instalar Visual Studio. En la siguiente clase crearemos **nuestro primer proyecto**.
-
-{% capture tmp %}{% include previous-next-post.md %}{% endcapture %}
-{{ tmp | markdownify }}
-
-{% capture tmp %}{% include comments.md siteUrl=site.url pageUrl=page.url %}{% endcapture %}
-{{ tmp | markdownify }}
